@@ -1,9 +1,9 @@
-Sentora Installers
+BusinessBox BHP Installer
 ==================
 
 Welcome to the Sentora Installation Script Git repository, this provides a central place to store, version and distribute Sentora installer and upgrade scripts from.
 
-## How to install Sentora ##
+## How to install BusinessBox BHP ##
 
 Our installation script currently support the following operating systems/distributions:
 
