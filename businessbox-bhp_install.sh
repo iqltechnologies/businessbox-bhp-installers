@@ -46,7 +46,7 @@ PANEL_UPGRADE=false
 #--- Display the 'welcome' splash/user warning info..
 echo ""
 echo "############################################################"
-echo "#  Welcome to the Official Sentora Installer $SENTORA_INSTALLER_VERSION  #"
+echo "#  Welcome to the BusinessBox BHP Installer $SENTORA_INSTALLER_VERSION  #"
 echo "############################################################"
 
 echo -e "\nChecking that minimal requirements are ok"
@@ -76,7 +76,7 @@ if [[ "$OS" = "CentOs" && ("$VER" = "6" || "$VER" = "7" ) ||
     echo "Ok."
 else
     echo "Sorry, this OS is not supported by Sentora." 
-    exit 1
+   
 fi
 
 # Centos uses repo directory that depends of architecture. Ensure it is compatible
